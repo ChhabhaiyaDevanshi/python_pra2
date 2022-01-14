@@ -1,4 +1,5 @@
-# # 20CE011-CHHABHAIYA DEVANSHI
+#https://github.com/ChhabhaiyaDevanshi/python_pra2/blob/main/set_practical2.py
+# 20CE011-CHHABHAIYA DEVANSHI
 
 # ::set::
 
@@ -6,9 +7,9 @@
 
 # myset = {"red", "black", "pink"}
 # print(myset)
-# myset.add("white")
+# myset.add("white") #add element into set 
 # print(myset)
-# myset.clear()
+# myset.clear() #clear all elements from set
 # print(myset)
 
 # ---------------------->que-2: Write a Python program to remove an item from a set if it is present in the set<--------------------------
@@ -23,7 +24,7 @@
 # A = {1, 2, 3, 4, 5}
 # B = {2, 4, 6, 7, 8, 9}
 
-# print("intersaction:", A & B)
+# print("intersaction:", A & B) 
 # print("Union:", A | B)
 # print("Difference:", A-B)
 
@@ -31,8 +32,8 @@
 
 # A = {20, 13, 2, 45, 10}
 # print(A)
-# print(max(A))
-# print(min(A))
+# print(max(A)) #max() to find maximum value in set
+# print(min(A)) #min() to find minimum value in set
 
 # ---------------------->que-5: Write a Python program to find the most common elements and their counts from list, tuple, dictionary.<--------------------------
 
